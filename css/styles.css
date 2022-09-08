@@ -1,0 +1,9 @@
+#borde{
+    border-bottom: 8px solid #efb810;
+}
+body{
+    font: 15px Arial, Helvetica, Sans-serif;
+    padding: 0px;
+    margin: 0px;
+    background-color: #930001;
+}
